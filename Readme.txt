@@ -1,6 +1,6 @@
 Thanks for downloading this template!
+Dengan sedikit perubahan dari versi awal
 
-Template Name: EasyFolio
-Template URL: https://bootstrapmade.com/easyfolio-bootstrap-portfolio-template/
+Template URL: https://bootstrapmade.com/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
